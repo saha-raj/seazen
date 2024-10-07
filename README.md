@@ -1,8 +1,10 @@
 # Seazen Theme
 
-A custom theme for Seaborn and Matplotlib.
+A crisp (and zen) theme for Seaborn and Matplotlib.
+
+Created by Raj Saha
 
 ## Installation
 
 ```bash
-pip install git+https://github.com/yourusername/seazen.git
+pip install git+https://github.com/saha-raj/seazen.git
