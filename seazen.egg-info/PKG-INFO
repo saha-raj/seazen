@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: seazen
+Version: 0.1
+Summary: A custom theme for Seaborn and Matplotlib
+Home-page: https://github.com/yourusername/seazen
+Author: Raj Saha
+Author-email: raj@sage-labs.io
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+# Seazen Theme
+
+A crisp (and zen) theme for Seaborn and Matplotlib.
+
+Created by Raj Saha
+
+## Installation
+
+```bash
+pip install git+https://github.com/saha-raj/seazen.git
+
+

@@ -1,0 +1,9 @@
+README.md
+setup.py
+seazen/__init__.py
+seazen/theme.py
+seazen.egg-info/PKG-INFO
+seazen.egg-info/SOURCES.txt
+seazen.egg-info/dependency_links.txt
+seazen.egg-info/requires.txt
+seazen.egg-info/top_level.txt
